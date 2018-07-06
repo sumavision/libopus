@@ -1,0 +1,5 @@
+﻿  test_opus_encode.c
+  opus_encode_regressions.c
+  正在生成代码...
+  test_opus_encode.vcxproj -> F:\workdir_git\workdir_opus\opus-1.2.1\win32\VS2015\Win32\Debug\test_opus_encode.exe
+  test_opus_encode.vcxproj -> Win32\Debug\test_opus_encode.pdb (Partial PDB)
